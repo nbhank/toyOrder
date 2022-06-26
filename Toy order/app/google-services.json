@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694498832283",
+    "firebase_url": "https://toyorders-b5485.firebaseio.com",
+    "project_id": "toyorders-b5485",
+    "storage_bucket": "toyorders-b5485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694498832283:android:fe29a5e1d88cd97d037b3e",
+        "android_client_info": {
+          "package_name": "io.github.hanknguyen69.FinalProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694498832283-4514q70lb7p7f32jr4ms1viq5fns544l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.hanknguyen69.FinalProject",
+            "certificate_hash": "b33a38a48f0c1ac0546e4a9ad374e86838c564b3"
+          }
+        },
+        {
+          "client_id": "694498832283-qin0di3gtitbrvbvtkeuid6k6ravk44u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mTUrpb-R8yTNZo7b9NcYEN8duQYNHvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694498832283-qin0di3gtitbrvbvtkeuid6k6ravk44u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
